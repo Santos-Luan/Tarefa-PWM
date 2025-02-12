@@ -33,3 +33,8 @@ Este projeto controla um servo motor utilizando o Raspberry Pi Pico por meio de 
 ## 🔍 Observações com o BitDogLab
 Ao testar com a ferramenta BitDogLab, o LED RGB pisca quando o servo atinge posições-chave e ao finalizar um ciclo de movimento, indicando sincronização com o sinal PWM.
 
+### 🎥 Assista ao Vídeo Explicativo
+Confira o vídeo explicativo sobre o funcionamento do código:  
+[Vídeo Explicativo - Funcionamento do Código](https://drive.google.com/file/d/1CNSWe37zMgwGwhgmhl3TLUuyrtTbUR1s/view?usp=drivesdk)
+
+
